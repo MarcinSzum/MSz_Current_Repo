@@ -1,5 +1,4 @@
 Moja treść testowa 12345
 
-Moja nowa treść
+ABC 123456
 
-Moja 2 nowa treść
